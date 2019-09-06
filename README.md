@@ -1,3 +1,3 @@
 # fed_tweet_classification
 
-# I use Convolutional Neural Network algorithm to analyze tweets related to FOMC meetings and measure the monetary shock.
+### Here is a sample code of 2-layer Convolutional Neural Network algorithm, which can analyze tweets in 3 groups. 
